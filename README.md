@@ -3,7 +3,7 @@ An exploratory tableau dashboard analysing over **1200+** customer reviews of Br
 
 
 ## 🛠 Tech Stack 
-The dashboard was built using the following tools and technologies : 
+This dashboard was built using the following tools and technologies : 
 -  📊 Tableau Public - Main data visualization platform used for dashboard creation.
 -  📂 CSV Data -  Raw review dataset ‘ba_reviews.csv’ and supporting country mapping ‘countries.csv’.
 -  📝 Data Cleaning - Basic preprocessing in Excel before import.
