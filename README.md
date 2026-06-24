@@ -36,7 +36,7 @@ To deliver an interactive visual tool that:
 This dashboard demonstrates how customer feedback can be transformed into actionable insights, supporting airline strategy, customer experience teams, and data‑driven decision making. 
 
 ## 📷 Dashboard Overview
-[Screenshot of the dashboard](https://github.com/oishik26/British-Airways-Reviews/blob/main/Snapshot%20of%20the%20dashboard.png)
+![Screenshot of the dashboard](https://github.com/oishik26/British-Airways-Reviews/blob/main/Snapshot%20of%20the%20dashboard.png)
 
 ## 🔗 Live Dashboard
 [View this dashboard on Tableau Public](https://public.tableau.com/views/BritishAirwaysReviewsDashboard_17822210881140/BritishAirwaysReviews?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
