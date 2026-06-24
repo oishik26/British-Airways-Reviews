@@ -1,5 +1,5 @@
 # ✈️ British Airways Reviews Dashboard
-An exploratory tableau dashboard analysing over 1200+ customer reviews of British Airways (2016-2023) to uncover service quality trends over time, geography and aircraft type. 
+An exploratory tableau dashboard analysing over **1200+** customer reviews of British Airways (2016-2023) to uncover service quality trends over time, geography and aircraft type. 
 
 
 ## 🛠 Tech Stack 
